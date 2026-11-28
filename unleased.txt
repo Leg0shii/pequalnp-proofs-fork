@@ -1,0 +1,347 @@
+L-meta-20644	2026-11-26 14:50:55	lease-first: held by another agent, no PR
+L-meta-20646	2026-11-26 14:50:55	lease-first: held by another agent, no PR
+L-meta-20641	2026-11-26 14:50:55	lease-first: held by another agent, no PR
+L-meta-20643	2026-11-26 14:50:55	lease-first: held by another agent, no PR
+L-meta-20640	2026-11-26 14:51:01	lease-first: held by another agent, no PR
+L-meta-20639	2026-11-26 14:51:02	lease-first: held by another agent, no PR
+L-meta-20638	2026-11-26 14:51:04	lease-first: held by another agent, no PR
+L-meta-20669	2026-11-26 14:52:06	lease-first: no lease (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-20668	2026-11-26 14:52:13	lease-first: held by another agent, no PR
+L-meta-20667	2026-11-26 14:52:16	lease-first: held by another agent, no PR
+L-meta-20666	2026-11-26 14:52:19	lease-first: held by another agent, no PR
+L-meta-20672	2026-11-26 14:52:23	lease-first: held by another agent, no PR
+L-meta-20664	2026-11-26 14:52:25	lease-first: held by another agent, no PR
+L-meta-20663	2026-11-26 14:52:29	lease-first: held by another agent, no PR
+L-meta-20662	2026-11-26 14:52:32	lease-first: held by another agent, no PR
+L-meta-20702	2026-11-26 14:53:25	lease-first: held by another agent, no PR
+L-meta-20707	2026-11-26 14:53:25	lease-first: held by another agent, no PR
+L-meta-20701	2026-11-26 14:53:27	lease-first: held by another agent, no PR
+L-meta-20700	2026-11-26 14:53:30	lease-first: held by another agent, no PR
+L-meta-20695	2026-11-26 14:53:36	lease-first: held by another agent, no PR
+L-meta-20690	2026-11-26 14:53:40	lease-first: held by another agent, no PR
+L-meta-20697	2026-11-26 14:53:41	lease-first: no lease (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-20689	2026-11-26 14:53:43	lease-first: held by another agent, no PR
+L-meta-20688	2026-11-26 14:53:47	lease-first: held by another agent, no PR
+L-meta-20687	2026-11-26 14:53:49	lease-first: held by another agent, no PR
+L-meta-20705	2026-11-26 14:53:49	lease-first: held by another agent, no PR
+L-meta-20660	2026-11-26 14:54:21	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20694	2026-11-26 14:54:28	lease-first: held by another agent, no PR
+L-meta-20691	2026-11-26 14:54:55	lease-first: held by another agent, no PR
+L-meta-20747	2026-11-26 14:55:12	lease-first: no lease (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-20649	2026-11-26 14:55:25	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20874	2026-11-26 15:25:46	lease-first: held by another agent, no PR
+L-meta-20873	2026-11-26 15:25:48	lease-first: held by another agent, no PR
+L-meta-20880	2026-11-26 15:25:51	lease-first: held by another agent, no PR
+L-meta-20875	2026-11-26 15:25:52	lease-first: no lease (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-20870	2026-11-26 15:25:52	lease-first: held by another agent, no PR
+L-meta-20869	2026-11-26 15:25:53	lease-first: held by another agent, no PR
+L-meta-20864	2026-11-26 15:26:00	lease-first: held by another agent, no PR
+L-meta-20862	2026-11-26 15:26:04	lease-first: held by another agent, no PR
+L-meta-20861	2026-11-26 15:26:05	lease-first: held by another agent, no PR
+L-meta-20863	2026-11-26 15:26:07	lease-first: no lease (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-20860	2026-11-26 15:26:11	lease-first: held by another agent, no PR
+L-meta-20859	2026-11-26 15:26:13	lease-first: held by another agent, no PR
+L-meta-20872	2026-11-26 15:26:13	lease-first: held by another agent, no PR
+L-meta-20858	2026-11-26 15:26:17	lease-first: held by another agent, no PR
+L-meta-20856	2026-11-26 15:26:18	lease-first: held by another agent, no PR
+L-meta-20855	2026-11-26 15:26:20	lease-first: held by another agent, no PR
+L-meta-20853	2026-11-26 15:26:21	lease-first: held by another agent, no PR
+L-meta-20867	2026-11-26 15:26:22	lease-first: held by another agent, no PR
+L-meta-20851	2026-11-26 15:26:23	lease-first: held by another agent, no PR
+L-meta-20850	2026-11-26 15:26:26	lease-first: held by another agent, no PR
+L-meta-20849	2026-11-26 15:26:26	lease-first: held by another agent, no PR
+L-meta-20846	2026-11-26 15:26:27	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20848	2026-11-26 15:26:28	lease-first: held by another agent, no PR
+L-meta-20845	2026-11-26 15:26:31	lease-first: held by another agent, no PR
+L-meta-20875	2026-11-26 15:26:40	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20876	2026-11-26 15:26:41	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20877	2026-11-26 15:26:44	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20878	2026-11-26 15:26:46	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20879	2026-11-26 15:26:49	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20869	2026-11-26 15:26:59	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20873	2026-11-26 15:27:01	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20874	2026-11-26 15:27:05	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20845	2026-11-26 15:27:12	lease-first: held by another agent, no PR
+L-meta-20870	2026-11-26 15:27:13	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20856	2026-11-26 15:27:16	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20859	2026-11-26 15:27:22	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20861	2026-11-26 15:27:29	lease-first: held by another agent, no PR
+L-meta-20862	2026-11-26 15:27:30	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20864	2026-11-26 15:27:43	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20853	2026-11-26 15:28:09	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20846	2026-11-26 15:28:22	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20849	2026-11-26 15:28:33	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20867	2026-11-26 15:28:46	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20875	2026-11-26 15:29:00	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20877	2026-11-26 15:29:11	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20845	2026-11-26 15:29:29	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20856	2026-11-26 15:29:37	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20861	2026-11-26 15:29:48	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20874	2026-11-26 15:30:25	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20867	2026-11-26 15:30:57	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20856	2026-11-26 15:31:49	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20845	2026-11-26 15:31:49	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20861	2026-11-26 15:31:54	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20874	2026-11-26 15:32:00	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20875	2026-11-26 15:32:07	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20877	2026-11-26 15:32:13	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20867	2026-11-26 15:32:27	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21040	2026-11-26 15:33:15	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20861	2026-11-26 15:33:40	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20874	2026-11-26 15:33:45	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-20875	2026-11-26 15:33:53	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21040	2026-11-26 15:34:26	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21198	2026-11-26 15:34:59	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21195	2026-11-26 15:35:12	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21040	2026-11-26 15:35:37	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21195	2026-11-26 15:36:17	lease-first: held by another agent, no PR
+L-meta-21195	2026-11-26 15:37:25	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21195	2026-11-26 15:38:39	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21195	2026-11-26 15:39:55	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21326	2026-11-26 15:39:59	lease-first: held by another agent, no PR
+L-meta-21325	2026-11-26 15:40:07	lease-first: held by another agent, no PR
+L-meta-21409	2026-11-26 15:40:57	lease-first: held by another agent, no PR
+L-meta-21326	2026-11-26 15:41:13	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21407	2026-11-26 15:41:17	lease-first: held by another agent, no PR
+L-meta-21325	2026-11-26 15:41:29	lease-first: held by another agent, no PR
+L-meta-21409	2026-11-26 15:42:05	lease-first: held by another agent, no PR
+L-meta-21404	2026-11-26 15:42:08	lease-first: held by another agent, no PR
+L-meta-21407	2026-11-26 15:42:29	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21326	2026-11-26 15:42:36	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21325	2026-11-26 15:42:47	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21404	2026-11-26 15:43:18	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21409	2026-11-26 15:43:26	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21326	2026-11-26 15:43:56	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21325	2026-11-26 15:44:12	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21409	2026-11-26 15:44:47	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21326	2026-11-26 15:45:15	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21325	2026-11-26 15:45:26	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21409	2026-11-26 15:46:15	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21456	2026-11-26 15:49:21	lease-first: held by another agent, no PR
+L-meta-21455	2026-11-26 15:49:30	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21454	2026-11-26 15:49:35	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21452	2026-11-26 15:50:05	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21445	2026-11-26 15:50:33	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21517	2026-11-26 15:50:46	lease-first: held by another agent, no PR
+L-meta-21514	2026-11-26 15:50:48	lease-first: held by another agent, no PR
+L-meta-21513	2026-11-26 15:50:50	lease-first: held by another agent, no PR
+L-meta-21512	2026-11-26 15:50:54	lease-first: held by another agent, no PR
+L-meta-21511	2026-11-26 15:50:57	lease-first: held by another agent, no PR
+L-meta-21567	2026-11-26 15:52:36	lease-first: held by another agent, no PR
+L-meta-21565	2026-11-26 15:52:42	lease-first: held by another agent, no PR
+L-meta-21564	2026-11-26 15:52:44	lease-first: held by another agent, no PR
+L-meta-21563	2026-11-26 15:52:46	lease-first: held by another agent, no PR
+L-meta-21561	2026-11-26 15:53:05	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21627	2026-11-26 15:53:13	lease-first: held by another agent, no PR
+L-meta-21626	2026-11-26 15:53:21	lease-first: held by another agent, no PR
+L-meta-21625	2026-11-26 15:53:34	lease-first: held by another agent, no PR
+L-meta-21624	2026-11-26 15:53:36	lease-first: held by another agent, no PR
+L-meta-21623	2026-11-26 15:53:38	lease-first: held by another agent, no PR
+L-meta-21619	2026-11-26 15:54:05	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21618	2026-11-26 15:54:12	lease-first: held by another agent, no PR
+L-meta-21617	2026-11-26 15:54:28	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21615	2026-11-26 15:54:43	lease-first: held (claim refused: {"gap": null, "note": "Another agent was handed this step 0 minutes ago and gets a head start. Bring your), no PR
+L-meta-21664	2026-11-26 15:55:14	lease-first: held by another agent, no PR
+L-meta-21663	2026-11-26 15:55:22	lease-first: held by another agent, no PR
+L-meta-21662	2026-11-26 15:55:24	lease-first: held by another agent, no PR
+L-meta-21661	2026-11-26 15:55:25	lease-first: held by another agent, no PR
+L-meta-21725	2026-11-26 15:56:09	lease-first: held by another agent, no PR
+L-meta-21723	2026-11-26 15:56:21	lease-first: held by another agent, no PR
+L-meta-21722	2026-11-26 15:56:22	lease-first: held by another agent, no PR
+L-meta-21726	2026-11-26 15:56:23	lease-first: stop (claim answer not understood, desk calls stopped 15 min: {"error": "this handle is paused until 2026-11-26T16:54:44.482Z:), no PR
+L-meta-21721	2026-11-26 15:56:30	lease-first: held by another agent, no PR
+L-meta-21720	2026-11-26 15:56:33	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21718	2026-11-26 15:56:33	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21719	2026-11-26 15:56:34	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21767	2026-11-26 15:56:43	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21766	2026-11-26 15:56:43	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21762	2026-11-26 15:56:44	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21761	2026-11-26 15:56:45	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21760	2026-11-26 15:56:53	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21758	2026-11-26 15:56:55	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21757	2026-11-26 15:56:56	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21756	2026-11-26 15:56:57	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21753	2026-11-26 15:57:00	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21752	2026-11-26 15:57:06	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21750	2026-11-26 15:57:07	lease-first: held by another agent, no PR
+L-meta-21751	2026-11-26 15:57:08	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21749	2026-11-26 15:57:09	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21748	2026-11-26 15:57:14	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21747	2026-11-26 15:57:17	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21745	2026-11-26 15:57:18	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21744	2026-11-26 15:57:20	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21743	2026-11-26 15:57:23	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21742	2026-11-26 15:57:25	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21741	2026-11-26 15:57:27	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21740	2026-11-26 15:57:28	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21739	2026-11-26 15:57:32	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21737	2026-11-26 15:57:32	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21736	2026-11-26 15:57:33	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21735	2026-11-26 15:57:37	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21734	2026-11-26 15:57:40	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21733	2026-11-26 15:57:41	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21732	2026-11-26 15:57:42	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21731	2026-11-26 15:57:46	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21730	2026-11-26 15:57:47	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21717	2026-11-26 15:58:03	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21716	2026-11-26 15:58:05	lease-first: held by another agent, no PR
+L-meta-21715	2026-11-26 15:58:11	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21714	2026-11-26 15:58:12	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21713	2026-11-26 15:58:15	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21712	2026-11-26 15:58:16	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21711	2026-11-26 15:58:21	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21709	2026-11-26 15:58:21	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21708	2026-11-26 15:58:23	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21706	2026-11-26 15:58:29	lease-first: held by another agent, no PR
+L-meta-21705	2026-11-26 15:58:31	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21802	2026-11-26 15:58:45	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21804	2026-11-26 15:58:46	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21803	2026-11-26 15:58:46	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21801	2026-11-26 15:58:46	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21800	2026-11-26 15:58:52	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21799	2026-11-26 15:58:53	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21798	2026-11-26 15:58:56	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21702	2026-11-26 15:58:57	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21701	2026-11-26 15:58:58	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21700	2026-11-26 15:59:04	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21699	2026-11-26 15:59:06	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21698	2026-11-26 15:59:08	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21703	2026-11-26 15:59:08	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21695	2026-11-26 15:59:12	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21691	2026-11-26 15:59:26	lease-first: held by another agent, no PR
+L-meta-21689	2026-11-26 15:59:26	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21693	2026-11-26 15:59:26	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21690	2026-11-26 15:59:26	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21686	2026-11-26 15:59:32	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21688	2026-11-26 15:59:33	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21687	2026-11-26 15:59:33	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21685	2026-11-26 15:59:36	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21682	2026-11-26 15:59:36	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21683	2026-11-26 15:59:41	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21678	2026-11-26 15:59:46	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21677	2026-11-26 15:59:47	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21679	2026-11-26 15:59:47	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21676	2026-11-26 15:59:53	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21675	2026-11-26 15:59:53	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21674	2026-11-26 15:59:56	lease-first: held by another agent, no PR
+L-meta-21673	2026-11-26 15:59:57	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21672	2026-11-26 16:00:00	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21671	2026-11-26 16:00:01	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21669	2026-11-26 16:00:02	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21668	2026-11-26 16:00:05	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21653	2026-11-26 16:00:07	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21652	2026-11-26 16:00:08	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21648	2026-11-26 16:00:10	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21651	2026-11-26 16:00:11	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21647	2026-11-26 16:00:14	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21646	2026-11-26 16:00:18	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21645	2026-11-26 16:00:18	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21644	2026-11-26 16:00:21	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21643	2026-11-26 16:00:23	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21642	2026-11-26 16:00:27	lease-first: held by another agent, no PR
+L-meta-21641	2026-11-26 16:00:27	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21639	2026-11-26 16:00:27	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21637	2026-11-26 16:00:29	lease-first: held by another agent, no PR
+L-meta-21636	2026-11-26 16:00:33	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21635	2026-11-26 16:00:52	lease-first: stop (no lease (desk off or paused)), no PR
+L-meta-21628	2026-11-26 16:00:59	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21602	2026-11-26 16:01:19	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21587	2026-11-26 16:02:05	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21575	2026-11-26 16:02:40	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21602	2026-11-26 16:03:00	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21548	2026-11-26 16:03:50	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21623	2026-11-26 16:04:20	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21624	2026-11-26 16:04:26	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-21625	2026-11-26 16:04:33	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24133	2026-11-26 18:25:01	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24181	2026-11-26 18:25:06	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24181	2026-11-26 18:25:06	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24341	2026-11-26 18:33:07	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24318	2026-11-26 18:33:19	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24318	2026-11-26 18:33:19	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24313	2026-11-26 18:34:08	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24331	2026-11-26 18:34:20	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24361	2026-11-26 18:35:23	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24451	2026-11-26 18:36:50	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24451	2026-11-26 18:38:10	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24496	2026-11-26 18:40:52	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24554	2026-11-26 18:40:59	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24552	2026-11-26 18:41:19	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24542	2026-11-26 18:41:22	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24554	2026-11-26 18:41:25	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24538	2026-11-26 18:41:33	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24542	2026-11-26 18:41:39	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24538	2026-11-26 18:41:51	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24585	2026-11-26 18:42:07	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24585	2026-11-26 18:42:17	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24496	2026-11-26 18:42:32	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24597	2026-11-26 18:47:51	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24597	2026-11-26 18:47:54	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24597	2026-11-26 18:49:08	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24673	2026-11-26 19:05:03	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24640	2026-11-26 19:05:05	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24661	2026-11-26 19:05:06	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24713	2026-11-26 19:12:51	lease-first: held in the mirror (no lease: 4 lease slots busy), no PR
+L-meta-24709	2026-11-26 19:12:55	lease-first: held in the mirror (no lease: 4 lease slots busy), no PR
+L-meta-24709	2026-11-26 19:12:59	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24713	2026-11-26 19:13:12	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24737	2026-11-26 19:13:22	lease-first: held in the mirror (no lease: gate timeout), no PR
+L-meta-24827	2026-11-26 19:13:53	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-24803	2026-11-26 19:13:57	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25066	2026-11-26 21:54:23	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25069	2026-11-26 21:54:35	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25072	2026-11-26 21:54:39	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25059	2026-11-26 21:54:51	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25045	2026-11-26 21:54:56	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25220	2026-11-26 21:55:28	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25227	2026-11-26 21:55:45	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25232	2026-11-26 21:55:53	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25231	2026-11-26 21:56:01	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25223	2026-11-26 21:56:09	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25219	2026-11-26 21:56:20	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25213	2026-11-26 21:56:27	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25212	2026-11-26 21:56:36	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25210	2026-11-26 21:56:43	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25430	2026-11-26 21:58:10	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25434	2026-11-26 21:58:19	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25425	2026-11-26 21:58:25	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25434	2026-11-26 21:58:25	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25418	2026-11-26 21:58:29	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25418	2026-11-26 21:58:40	lease-first: held in the mirror (no lease: 4 lease slots busy), no PR
+L-meta-25423	2026-11-26 21:58:47	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25411	2026-11-26 21:59:22	lease-first: held (claim refused: held by the desk (gate)), no PR
+L-meta-25389	2026-11-26 21:59:28	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25388	2026-11-26 21:59:31	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25379	2026-11-26 21:59:34	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25370	2026-11-26 21:59:40	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25434	2026-11-26 21:59:43	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25418	2026-11-26 21:59:44	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25388	2026-11-26 21:59:54	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25379	2026-11-26 21:59:55	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25370	2026-11-26 21:59:59	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25395	2026-11-26 22:00:00	lease-first: held in the mirror (no lease: gate closed (no open ref newer than the stop)), no PR
+L-meta-25348	2026-11-26 22:00:01	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25371	2026-11-26 22:00:03	lease-first: held in the mirror (no lease: gate closed (no open ref newer than the stop)), no PR
+L-meta-25325	2026-11-26 22:00:05	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25298	2026-11-26 22:00:09	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25287	2026-11-26 22:00:10	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25273	2026-11-26 22:00:20	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25271	2026-11-26 22:00:22	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25270	2026-11-26 22:00:23	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25259	2026-11-26 22:00:28	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25250	2026-11-26 22:00:31	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25238	2026-11-26 22:00:33	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25192	2026-11-26 22:00:34	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25270	2026-11-26 22:00:42	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25273	2026-11-26 22:00:42	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25259	2026-11-26 22:00:50	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25388	2026-11-26 22:00:58	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25271	2026-11-26 22:01:35	held by 1 other agent(s) at the desk and no lease of ours: no new PR (Lead 14:22)
+L-meta-25654	2026-11-27 13:21:03	lease-first: rival: #38950 by jxtcman (no lease: file first ()), no PR
+L-meta-33581	2026-11-27 20:15:51	lease-first: rival: #44145 by koolkao (no lease: file first (direction4-eight-vertex-edge-exploration)), no PR
+L-meta-33585	2026-11-27 20:20:31	lease-first: rival: #44213 by JusLarsen (no lease: file first (direction4-eight-vertex-edge-exploration)), no PR
+L-meta-35284	2026-11-28 00:57:54	lease-first: rival: #45734 by grayboywilliams (no lease: file first (direction4-eight-vertex-edge-exploration)), no PR
+L-meta-35174	2026-11-28 01:00:38	lease-first: rival: #45892 by vvv214 (no lease: file first (direction4-eight-vertex-edge-exploration)), no PR
+L-meta-34140	2026-11-28 01:02:14	lease-first: rival: #45952 by willakone (no lease: file first (direction4-eight-vertex-edge-exploration)), no PR
+L-meta-42682	2026-11-28 04:12:21	lease-first: rival: #49656 by green-notes (no lease: file first (direction4-eight-vertex-edge-exploration)), no PR
+L-meta-42676	2026-11-28 04:12:21	lease-first: rival: #49653 by willakone (no lease: file first (direction4-eight-vertex-edge-exploration)), no PR
